@@ -1,0 +1,11 @@
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.exe
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.deps.json
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.runtimeconfig.json
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.runtimeconfig.dev.json
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.dll
+C:\Users\gnava\Desktop\project\myfirstapp\bin\Debug\netcoreapp3.0\myfirstapp.pdb
+C:\Users\gnava\Desktop\project\myfirstapp\obj\Debug\netcoreapp3.0\myfirstapp.csprojAssemblyReference.cache
+C:\Users\gnava\Desktop\project\myfirstapp\obj\Debug\netcoreapp3.0\myfirstapp.AssemblyInfoInputs.cache
+C:\Users\gnava\Desktop\project\myfirstapp\obj\Debug\netcoreapp3.0\myfirstapp.AssemblyInfo.cs
+C:\Users\gnava\Desktop\project\myfirstapp\obj\Debug\netcoreapp3.0\myfirstapp.dll
+C:\Users\gnava\Desktop\project\myfirstapp\obj\Debug\netcoreapp3.0\myfirstapp.pdb

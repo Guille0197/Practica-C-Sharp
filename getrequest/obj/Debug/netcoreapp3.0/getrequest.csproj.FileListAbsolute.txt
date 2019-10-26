@@ -1,0 +1,13 @@
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.exe
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.deps.json
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.runtimeconfig.json
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.runtimeconfig.dev.json
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.dll
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\getrequest.pdb
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.csprojAssemblyReference.cache
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.AssemblyInfoInputs.cache
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.AssemblyInfo.cs
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.dll
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.pdb
+C:\Users\gnava\Desktop\project\getrequest\bin\Debug\netcoreapp3.0\Newtonsoft.Json.dll
+C:\Users\gnava\Desktop\project\getrequest\obj\Debug\netcoreapp3.0\getrequest.csproj.CopyComplete
